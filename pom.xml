@@ -73,7 +73,7 @@
                     <server>TomcatServer</server>
                     <!--<username>admin</username>-->
                     <!--<password>admin</password>-->
-                    <!--<path>/client</path>-->
+                    <path>/client</path>
                     <update>true</update>
                 </configuration>
             </plugin>
